@@ -13,7 +13,7 @@ public class StringPS2_1 {
         middleIndex = str.length()-1;
         for (int i = 0; i < middleIndex; i++) {
             for (int j = 1; j < width; j++) {
-                if ()
+
             }
         }
     }
